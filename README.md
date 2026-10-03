@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋, soy Alan Espinosa
 
-<!--
-**AlanEspinosa-tch/AlanEspinosa-tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero Matemático (ESFM-IPN) | Analista Jr. de Finanzas**
 
-Here are some ideas to get you started:
+Me especializo en transformar datos financieros y operativos en estrategias de negocio accionables. Actualmente trabajo en Grupo Treher, gestionando modelos de precios, valoración de inventarios y reportes de ventas para una red de 13 estaciones de servicio. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi enfoque principal es el **diseño analítico y el modelado cuantitativo**. Construyo la lógica matemática y de negocio detrás de cada análisis, apoyándome en herramientas tecnológicas (y asistencia de IA) para la implementación de código y automatización de procesos.
+
+### 🛠️ Stack Tecnológico y Habilidades
+
+*   **Análisis de Datos y BI:** SQL (SQLite, DBeaver), Excel avanzado (Power Query, Power Pivot, DAX), Power BI.
+*   **Programación y Automatización:** Python (Pandas, Streamlit, Selenium para web scraping).
+*   **Modelado Cuantitativo:** Econometría, Regresión Lineal Múltiple, Series de Tiempo (Series de Fourier), Elasticidad de precios.
+*   **Plataformas Empresariales:** Microsoft 365, Power Platform (Dataverse, Power Pages).
+
+### 📈 Lo que hago
+*   **Análisis de elasticidad y demanda:** Modelos econométricos para optimizar precios de combustibles.
+*   **Automatización de reportes:** Creación de dashboards financieros y operativos (Flash reports) usando Python/Streamlit y Power BI.
+*   **Ingeniería de datos:** Consultas SQL complejas (CTEs, Window functions) para consolidar ventas y logística.
+*   **Auditoría y conciliación:** Valoración de inventarios cruzando registros contables, sistemas operativos (ControlGAS) y existencias físicas.
+
+### 📫 Contáctame
+*   **LinkedIn:** [Tu URL de LinkedIn aquí]
+*   **Email:** [Tu correo aquí]
