@@ -8,8 +8,8 @@ Mi enfoque principal es el **diseño analítico y el modelado cuantitativo**. Co
 
 ### 🛠️ Stack Tecnológico y Habilidades
 
-*   **Análisis de Datos y BI:** SQL (SQLite, DBeaver), Excel avanzado (Power Query, Power Pivot, DAX), Power BI.
-*   **Programación y Automatización:** Python (Pandas, Streamlit, Selenium para web scraping).
+*   **Análisis de Datos y BI:** SQL (SQLite, DBeaver), Excel avanzado (Power Query, Power Pivot), Power BI.
+*   **Programación y Automatización:** Python (Pandas, Streamlit, Selenium para web scraping asistido por IA).
 *   **Modelado Cuantitativo:** Econometría, Regresión Lineal Múltiple, Series de Tiempo (Series de Fourier), Elasticidad de precios.
 *   **Plataformas Empresariales:** Microsoft 365, Power Platform (Dataverse, Power Pages).
 
