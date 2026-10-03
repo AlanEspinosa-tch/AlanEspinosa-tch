@@ -20,5 +20,4 @@ Mi enfoque principal es el **diseño analítico y el modelado cuantitativo**. Co
 *   **Auditoría y conciliación:** Valoración de inventarios cruzando registros contables, sistemas operativos (ControlGAS) y existencias físicas.
 
 ### 📫 Contáctame
-*   **LinkedIn:** [Tu URL de LinkedIn aquí]
-*   **Email:** [Tu correo aquí]
+*   **Email:** AlanEspinosa_@outlook.com
