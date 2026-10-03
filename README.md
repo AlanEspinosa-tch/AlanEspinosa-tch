@@ -1,6 +1,6 @@
-# Hola 👋, soy Alan Espinosa
+# Hola, bienvenido querido invidado!,, soy Alan Espinosa
 
-**Ingeniero Matemático (ESFM-IPN) | Analista Jr. de Finanzas**
+**Ingeniero Matemático (ESFM-IPN) | Analista de datos y Finanzas**
 
 Me especializo en transformar datos financieros y operativos en estrategias de negocio accionables. Actualmente trabajo en Grupo Treher, gestionando modelos de precios, valoración de inventarios y reportes de ventas para una red de 13 estaciones de servicio. 
 
