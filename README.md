@@ -1,23 +1,32 @@
-# Hola, bienvenido querido invidado!,, soy Alan Espinosa
+# Hola, soy Alan Espinosa
 
-**Ingeniero Matemático (ESFM-IPN) | Analista de datos y Finanzas**
+**Ingeniero Matemático (ESFM-IPN) | Analista de Datos y Finanzas**
 
-Me especializo en transformar datos financieros y operativos en estrategias de negocio accionables. Actualmente trabajo en Grupo Treher, gestionando modelos de precios, valoración de inventarios y reportes de ventas para una red de 13 estaciones de servicio. 
+Soy Ingeniero Matemático y actualmente trabajo como Analista Jr. de Finanzas y Pricing. Mi trabajo combina análisis de datos, estadística, finanzas y automatización de procesos.
 
-Mi enfoque principal es el **diseño analítico y el modelado cuantitativo**. Construyo la lógica matemática y de negocio detrás de cada análisis, apoyándome en herramientas tecnológicas (y asistencia de IA) para la implementación de código y automatización de procesos.
+Me interesa especialmente convertir problemas operativos y financieros en modelos de datos, indicadores y herramientas que faciliten el análisis y la toma de decisiones.
 
-### > Stack Tecnológico y Habilidades
+### Herramientas
 
-*   **Análisis de Datos y BI:** SQL (SQLite, DBeaver), Excel avanzado (Power Query, Power Pivot), Power BI.
-*   **Programación y Automatización:** Python (Pandas, Streamlit, Selenium para web scraping asistido por IA).
-*   **Modelado Cuantitativo:** Econometría, Regresión Lineal Múltiple, Series de Tiempo (Series de Fourier), Elasticidad de precios.
-*   **Plataformas Empresariales:** Microsoft 365, Power Platform (Dataverse, Power Pages).
+- **Análisis y BI:** Power BI (DAX, Power Query), Excel avanzado.
+- **Datos:** SQL, SQLite, diseño relacional y consultas analíticas.
+- **Programación:** Python, Pandas y automatización con Selenium.
+- **Estadística y modelado:** regresión, econometría, series de tiempo y elasticidad de precios.
+- **Automatización:** procesamiento de XML/CFDI y generación de reportes.
 
-### > Lo que hago
-*   **Análisis de elasticidad y demanda:** Modelos econométricos para optimizar precios de combustibles.
-*   **Automatización de reportes:** Creación de dashboards financieros y operativos (Flash reports) usando Python/Streamlit y Power BI.
-*   **Ingeniería de datos:** Consultas SQL complejas (CTEs, Window functions) para consolidar ventas y logística.
-*   **Auditoría y conciliación:** Valoración de inventarios cruzando registros contables, sistemas operativos (ControlGAS) y existencias físicas.
+### Proyectos
 
-### > Contáctame
-*   **Email:** AlanEspinosa_@outlook.com
+En este perfil documento proyectos relacionados con:
+
+- Análisis de ventas y márgenes.
+- Modelado y consultas SQL para inteligencia competitiva.
+- Automatización y conciliación de información operativa.
+- Web scraping y procesamiento de CFDI/XML.
+
+### Sobre el desarrollo
+
+En algunos proyectos utilizo herramientas de Inteligencia Artificial como apoyo para la implementación de código. La definición del problema, las reglas de negocio, el análisis, la metodología y las decisiones de diseño forman parte de mi trabajo.
+
+### Contacto
+
+- **Email:** AlanEspinosa_@outlook.com
